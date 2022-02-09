@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kandhan Nadarajah
 
 You can use the [editor on GitHub](https://github.com/Kandhan03/KandhanNadarajah/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
